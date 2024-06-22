@@ -1,6 +1,6 @@
-# amazon_data_analytics
+# Análise de dados de vendas da Olist
 
-Uma análise exploratória de dados de vendas da Amazon nos anos de 2017-2018
+Uma análise exploratória de dados de vendas da Olist nos anos de 2017-2018
 
 O notebook possui perguntas que foram respondidas por técnicas de análise de ddados utilizando a linguagem Python
 
